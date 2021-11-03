@@ -17,7 +17,7 @@ To be able to open and use the project, please follow next steps :
 
 Please make sure that you have download last version of Python : [DOWNLOAD PYTHON HERE](https://www.python.org/downloads/).
 
-Futhermore, you will need the last version of Anaconda : [DOWNLOAD ANACONDA HERE](https://www.anaconda.com/products/individual)
+Futhermore, you will need the last version of Anaconda : [DOWNLOAD ANACONDA HERE](https://www.anaconda.com/products/individual).
 
 After had download Anaconda, you will be able to launch the 'Conda prompt'. In your computer search bar, please enter "Anaconda Prompt (anaconda3)" and open it.
 In the Conda prompt, use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries :
@@ -98,4 +98,4 @@ Please find the meteorological events classification used for the project and th
 In the dashboard in parameters, you can check all events box or states box with the check all box, but you need to click on submit first to submit the request then if you want to study all of it then you need to submit it again without modiying anything. If you want to uncheck all box, you need to check the check all box then submit, then uncheck it then submit then choose what you want to study.
 If no events or no states are filled the page will continue but no graph will change. 
 
-If you select a large dataset to study, please make sure to wait at least 3 minutes max before graphics uptade.
+If you select a large dataset to study, please make sure to wait at least 3 minutes max before graphics update.
