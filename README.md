@@ -4,7 +4,7 @@
 
 ## CONTRIBUTER
 
-Hello, my name is Bérangère MAHMOUD--LAMY. I am a french transgender student in engineering school at E.S.I.I.E. PARIS placed in Noisy-Le-Grand. I am currently in the fourth year of my cursus in theorical computer science degree.
+Hello, my name is Bérangère MAHMOUD--LAMY. I am a french student in engineering school at E.S.I.I.E. PARIS placed in Noisy-Le-Grand. I am currently in the fourth year of my cursus in theorical computer science degree.
 
 ## PROJECT
 
